@@ -72,7 +72,7 @@ Stay updated with the latest trends, insights, and tips in the digital world thr
 
 ## Technologies Used
 
-- **Frontend**: React.js
+- **Frontend**: React.js, Tailwind CSS
 - **Backend**: Django
 
 ---
