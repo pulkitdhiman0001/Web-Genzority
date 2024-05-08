@@ -1,6 +1,6 @@
 # Web Genzority
 
-[![Web Genzority](https://www.webgenzority.com)](https://www.webgenzority.com)
+Live link => [![Web Genzority](https://www.webgenzority.com)](https://www.webgenzority.com)
 
 Welcome to Web Genzority! Your ultimate destination for top-notch digital solutions tailored for startups. Whether you're looking to establish a compelling online presence, boost your brand's visibility, or engage with your audience effectively, we've got you covered. With a team of experts specializing in various domains, we deliver innovative solutions to propel your business forward.
 
