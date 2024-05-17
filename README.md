@@ -76,7 +76,3 @@ Stay updated with the latest trends, insights, and tips in the digital world thr
 - **Backend**: Django
 
 ---
-
-Connect with us: [Instagram](https://instagram.com/webgenzority) | [Facebook](https://facebook.com/webgenzority) | [Twitter](https://twitter.com/webgenzority)
-
-© 2024 Web Genzority. All Rights Reserved.
